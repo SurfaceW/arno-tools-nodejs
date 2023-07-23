@@ -1,0 +1,14 @@
+{
+  "name": "arno-tools-nodejs",
+  "version": "1.0.0",
+  "description": "Arno's personal tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "Arno Nan",
+  "license": "ISC"
+}
